@@ -43,6 +43,8 @@ async function handleRequest(req) {
     await DAYSOFTHEMONTH.put(cacheKey, JSON.stringify(data), { expirationTtl: 3600 });
   }
 
+  console.log(data);
+
   const table = `
     <html>
       <head>
@@ -50,6 +52,11 @@ async function handleRequest(req) {
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
         <title>daysofthemonth</title>
+        <style>
+          table {
+            width: 100%;
+          }
+        </style>
       </head>
       <body>
         <table>
