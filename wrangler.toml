@@ -1,0 +1,13 @@
+type = "webpack"
+name = "daysofthemonth"
+account_id = "a749f4459c0e24f9b878279b7a63edbf"
+workers_dev = true
+
+route = "www.daysofthemonth.live/*"
+zone_id = "c0e8b71b4c8a5bcd835f491266e9eb3e"
+
+compatibility_date = "2022-01-30"
+webpack_config = "workers-site/webpack.config.js"
+
+# [secrets]
+# GITHUB_TOKEN
