@@ -9,5 +9,9 @@ zone_id = "c0e8b71b4c8a5bcd835f491266e9eb3e"
 compatibility_date = "2022-01-30"
 webpack_config = "workers-site/webpack.config.js"
 
+kv_namespaces = [
+  { binding = "DAYSOFTHEMONTH", id = "59dd165245ff45e3853568c24b46088c" }
+]
+
 # [secrets]
 # GITHUB_TOKEN
