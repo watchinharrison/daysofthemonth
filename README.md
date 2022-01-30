@@ -26,8 +26,8 @@ You can get involved by suggesting a new word for a given date. In the [DAYS.md]
 
 ### Supporting other words
 
-You can view, search and open suggestions from the [Pull Requests](https://github.com/watchinharrison/daysofthemonth/pulls) tab. Search for any of the dates or a word to see if it's been suggested. Get involved with the comments and use 👍 and 👎 reactions to given your opinion. Remember to keep it respectful and fun.
+You can view, search and open suggestions from the [Pull Requests](https://github.com/watchinharrison/daysofthemonth/pulls) tab. Search for any of the dates or a word to see if it's been suggested. Get involved with the comments and use 👍 and 👎 reactions to cast your vote. Remember to keep it respectful and fun.
 
 ## Viewing the winning words
 
-After some initial volatility, voting should stabilize on some clear winners, you can see them via the sort function on the pulls request page, or a simple table view [here](https://www.daysofthemonth.live).
+After some initial volatility, voting should stabilize on some clear winners, you can see them via the sort function on the pulls request page, or a [simple table view on https://www.daysofthemonth.live](https://www.daysofthemonth.live).
